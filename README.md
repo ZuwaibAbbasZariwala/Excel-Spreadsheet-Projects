@@ -12,6 +12,9 @@ Inventory Management: Efficient tracking for optimized stock levels.
 Visualizations: Clear charts for a visual understanding.
 Feel free to peruse and delve into the data-driven narrative of Vrinda Store.
 
+Access the Project:
+View on Google Spreadsheet: https://docs.google.com/spreadsheets/d/15Dye4UdWZZaE5BCQAus61-sHfBcvvCEJCZSvuN61Huo/edit?usp=sharing
+
 Best regards,
 Zuwaib Abbas Zariwala
 
